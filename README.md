@@ -1,10 +1,10 @@
-# Fibonacci-Factorial-Repository
+
 
 # fibonacci--factorial-algorithm-design
 Fibonacci series and factorial codes using C++ to show algorithm design.
 
-# REG NUMBER: EB3/61515/22  
-# NAME: James Kariuki  
+**REG NUMBER: EB3/61515/22 ** 
+** NAME: James Kariuki ** 
 
 ---
 
